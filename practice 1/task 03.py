@@ -1,0 +1,6 @@
+a = float(input('Введите первое значение: '))
+b = float(input('Введите второе значение: '))
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
